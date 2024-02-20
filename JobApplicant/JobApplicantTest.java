@@ -1,5 +1,3 @@
-package jobapplicant.java;
-
 public final class JobApplicantTest {
     String name, phone;
     boolean words, graphics, database, spread;
