@@ -1,7 +1,4 @@
-package jobapplicant.java;
 import java.util.Scanner; 
-
-
 public class JobApplicantJava {
 
     /**
